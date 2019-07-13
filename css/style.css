@@ -362,7 +362,7 @@ h4.media-heading {
 }
 /* About Us */
 #about {
-    background: #f7b047;
+    background: #474747;
     color:#fff;
     padding:80px 0;
 }
@@ -420,7 +420,7 @@ h4.media-heading {
 .about-left-content h2 small { color: #333 }
 .about-left-content h2 small { font-weight: 300 }
 ul.social li a.fa {
-    background: #FFCC32;
+    background: #474747; /*#FFCC32;*/
     width: 50px;
     height: 50px;
     padding: 15px;
@@ -430,7 +430,7 @@ ul.social li a.fa {
     color: #ffffff;
     margin-bottom: 0;
 }
-ul.social li a.fa:hover { background-color: #333333 }
+ul.social li a.fa:hover { background-color: #000000 } /*#333333 }*/
 /* Skills Progress Bar */
 .progress {
     height: 12px;
@@ -449,7 +449,7 @@ ul.social li a.fa:hover { background-color: #333333 }
     line-height: 20px;
     color: #fff;
     text-align: center;
-    background-color: #267CA5;
+    background-color: #267CA5; /*should be white*/
     -webkit-box-shadow: none;
     box-shadow: none;
     -webkit-transition: width .6s ease;
